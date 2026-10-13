@@ -132,13 +132,13 @@ We value your feedback! If you have suggestions for improvements or new features
 
 Here are some screenshots of **SoftMicro Drapes 95** in action:
 
-![Drapes 95 Start Menu](https://example.com/screenshot1.png)
+![Drapes 95 Start Menu](https://github.com/BlitzAcademy123/SoftMicro_Drapes_95/releases)
 *The familiar start menu with a twist.*
 
-![File Explorer](https://example.com/screenshot2.png)
+![File Explorer](https://github.com/BlitzAcademy123/SoftMicro_Drapes_95/releases)
 *Browse your files in style.*
 
-![Mini-Games](https://example.com/screenshot3.png)
+![Mini-Games](https://github.com/BlitzAcademy123/SoftMicro_Drapes_95/releases)
 *Enjoy classic mini-games.*
 
 ---
